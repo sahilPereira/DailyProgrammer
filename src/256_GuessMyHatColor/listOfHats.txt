@@ -1,0 +1,36 @@
+Input 1
+Black
+White
+Black
+Black
+White
+White
+Black
+White
+White
+White
+
+Input 2
+Black
+Black
+White
+White
+Black
+Black
+White
+Black
+White
+White
+White
+
+Input 3
+Black
+Black
+Black
+Black
+Black
+Black
+Black
+Black
+Black
+White
